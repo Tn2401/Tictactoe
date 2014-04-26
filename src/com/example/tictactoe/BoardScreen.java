@@ -26,6 +26,7 @@ public class BoardScreen
     public void initialize()
     {
 
+
         board = new Board(12);
         //float min = Math.min(getWidth(), getHeight());
         float width = getWidth() / 12;
